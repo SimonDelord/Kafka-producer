@@ -1,2 +1,4 @@
-Faker==6.6.2
-kafka-python
+Faker==13.3.4
+kafka-python==2.0.2
+fastapi[all]== 0.75.1
+python-dotenv==0.20.0
