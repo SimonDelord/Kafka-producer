@@ -4,7 +4,7 @@ import time
 import datetime
 from faker import Faker
 
-KAFKA_TOPIC = "acs-topic-2"
+KAFKA_TOPIC = "acs-topic-4"
 BOOTSTRAP_SERVER = '172.30.2.176:9092'
 
 fake = Faker()
